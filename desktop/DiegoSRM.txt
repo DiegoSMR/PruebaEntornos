@@ -1,0 +1,8 @@
+USUARIO:  =>  DiegoSRM
+
+Git init
+
+git clone --bare https://github.com/ED2016/DAW
+
+cd daw.git
+gitpush  --mirror https://github.com/ED2016/DAW
